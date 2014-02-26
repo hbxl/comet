@@ -25,3 +25,5 @@ b.ob_end_flush();
 c.ob_flush();
 
   flush();
+  
+参考资料：http://www.jb51.net/article/16215.htm
